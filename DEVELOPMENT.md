@@ -10,4 +10,82 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
-기존 개발 이력은 아직 이관하지 않았다.
+### 2026-08-21
+
+- `docs: align repository principles with current THOMAS direction`
+
+### 2026-08-16
+
+- `fix: unify THOMAS Windows icon identity`
+- `fix: include THOMAS icon assets in release package`
+- `chore: prepare THOMAS v0.2.2 release`
+- `feat: complete THOMAS Windows desktop experience`
+
+### 2026-08-15
+
+- `feat: reconstruct THOMAS GUI interaction quality`
+- `fix: complete THOMAS v0.2.1 hotfix`
+- `chore: prepare THOMAS v0.2.0 release`
+- `feat: establish independent THOMAS core runtime`
+- `feat: establish persistent cognition and situation understanding`
+
+### 2026-08-14
+
+- `docs: reset repository documentation architecture`
+
+### 2026-08-12
+
+- `refactor: establish context and long-lived understanding foundation`
+
+### 2026-08-10
+
+- `refactor: establish durable turn and work foundation`
+- `refactor: establish schema-aware update and recovery safety`
+
+### 2026-08-09
+
+- `refactor: establish application core runtime ownership`
+
+### 2026-08-08
+
+- `docs: complete M10 Windows release validation`
+- `chore: bump version to 0.1.3 for update validation`
+- `fix: isolate update backup sqlite connection`
+- `chore: bump version to 0.1.1 for update validation`
+
+### 2026-08-07
+
+- `feat: complete M10 Windows distribution and onboarding`
+
+### 2026-08-06
+
+- `feat: complete M09 execution environment control`
+- `feat: establish THOMAS conversation and work panels`
+
+### 2026-08-05
+
+- `docs: establish THOMAS system identity`
+- `feat: complete M08.5 core user loop`
+
+### 2026-08-04
+
+- `feat: connect local Ollama response generation`
+- `feat: add JSON export and database backup`
+
+### 2026-08-03
+
+- `feat: add persistent response memory records`
+
+### 2026-08-02
+
+- `feat: add recoverable memory deletion and restoration`
+- `feat: apply approved memories to mock responses`
+
+### 2026-07-31
+
+- `feat: add memory approval lifecycle and management UI`
+- `feat: add memory candidate generation and list`
+- `feat: persist and restore conversations with SQLite`
+- `docs: define project vision and v0.1 requirements`
+- `feat: add initial PySide6 mock chat app`
+- `chore: initialize project workspace`
