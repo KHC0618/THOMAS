@@ -10,6 +10,14 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-08-27
+
+- `fix: authenticate THOMAS public record push`
+- `fix: isolate THOMAS public record validation`
+- `fix: stabilize THOMAS public record publishing`
+- `chore: automate THOMAS public development record`
+- `feat: establish THOMAS experience interpretation, learning, and recall`
+
 ### 2026-08-21
 
 - `docs: align repository principles with current THOMAS direction`
