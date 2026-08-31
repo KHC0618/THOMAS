@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-08-31
+
+- `feat: establish streamed THOMAS response delivery`
+
 ### 2026-08-27
 
 - `fix: authenticate THOMAS public record push`
