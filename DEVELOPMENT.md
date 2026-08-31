@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-08-31
 
+- `chore: prepare THOMAS v0.3.0 release`
 - `feat: establish streamed THOMAS response delivery`
 
 ### 2026-08-27
