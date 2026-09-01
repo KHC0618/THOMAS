@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-09-01
 
+- `chore: prepare v0.3.1 release`
 - `fix: prevent transient conversation windows`
 
 ### 2026-08-31
