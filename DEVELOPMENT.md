@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-09-02
 
+- `test: stabilize asynchronous lifecycle verification`
 - `chore: prepare THOMAS v0.4.0 release`
 - `feat: establish persistent THOMAS identity and cognitive ownership`
 
