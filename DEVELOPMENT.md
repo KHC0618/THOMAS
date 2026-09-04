@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-09-04
 
+- `chore: prepare THOMAS v0.5.0 release`
 - `feat: establish THOMAS system monitoring`
 
 ### 2026-09-02
