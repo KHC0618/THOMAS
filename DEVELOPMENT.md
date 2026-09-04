@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-09-04
+
+- `feat: establish THOMAS system monitoring`
+
 ### 2026-09-02
 
 - `test: stabilize asynchronous lifecycle verification`
