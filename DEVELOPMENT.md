@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-09-07
+
+- `feat: establish THOMAS autonomous cognition, speech and intervention learning`
+
 ### 2026-09-04
 
 - `feat: establish THOMAS context builder and response availability`
