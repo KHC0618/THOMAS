@@ -10,6 +10,11 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-09-15
+
+- `chore: prepare THOMAS v0.7.0 release`
+- `feat: strengthen THOMAS contextual memory and recall`
+
 ### 2026-09-13
 
 - `chore: prepare THOMAS v0.6.0 release`
