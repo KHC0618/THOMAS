@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-09-16
 
+- `fix: preserve interpretation contracts and prioritize interactive commands`
 - `fix: improve response grounding and runtime responsiveness for v0.7.1`
 
 ### 2026-09-15
