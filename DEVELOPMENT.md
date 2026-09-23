@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-09-23
+
+- `Build THOMAS long-term scalability foundation for v0.8.0`
+
 ### 2026-09-17
 
 - `fix: avoid unnecessary pre-response interpretation for v0.7.2`
