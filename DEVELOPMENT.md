@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-10-02
 
+- `fix: unify response context provenance and export validation (CP02)`
 - `fix: preserve suppression on context refresh failure (CP01)`
 
 ### 2026-09-30
