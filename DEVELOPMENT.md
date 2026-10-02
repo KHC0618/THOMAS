@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-10-02
 
+- `fix: preserve inquiry read continuity and incomplete scope (CP08)`
 - `fix: preserve candidate understanding ownership (CP07)`
 - `fix: keep remote Core work off GUI thread (CP06)`
 - `fix: stop detached Core before update rollback (CP05)`
