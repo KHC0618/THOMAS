@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-10-02
+
+- `fix: preserve suppression on context refresh failure (CP01)`
+
 ### 2026-09-30
 
 - `Improve public inquiry with provenance-bound search disclosure for v0.9.1`
