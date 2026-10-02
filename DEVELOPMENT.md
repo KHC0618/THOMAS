@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-10-02
 
+- `fix: stop detached Core before update rollback (CP05)`
 - `fix: make historical telemetry archival retries safe (CP04)`
 - `fix: validate each required backup column affinity (CP03)`
 - `fix: unify response context provenance and export validation (CP02)`
