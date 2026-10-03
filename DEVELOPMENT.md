@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-10-03
+
+- `fix: ground outcome feedback in actual judgments (CP09)`
+
 ### 2026-10-02
 
 - `fix: preserve inquiry read continuity and incomplete scope (CP08)`
