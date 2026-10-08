@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-10-08
+
+- `refactor: separate desktop views and operation controllers (CP13)`
+
 ### 2026-10-07
 
 - `fix: independently evaluate AI quality and enforce evidence exclusions (CP12)`
