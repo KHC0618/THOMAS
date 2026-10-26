@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-10-26
+
+- `feat: add hardware-aware model advice and release 0.9.3`
+
 ### 2026-10-25
 
 - `chore(release): prepare 0.9.2 with Windows CI and runtime fixes`
