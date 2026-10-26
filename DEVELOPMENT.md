@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-10-26
 
+- `fix: reduce default context allocation and release 0.9.4`
 - `feat: add hardware-aware model advice and release 0.9.3`
 
 ### 2026-10-25
