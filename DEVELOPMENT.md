@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-11-05
+
+- `Release 0.10.1 fixing GUI shutdown during update handoff`
+
 ### 2026-11-04
 
 - `Release 0.10.0 with federated web research and grounded answers`
