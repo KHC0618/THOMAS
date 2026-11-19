@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-11-19
+
+- `Fix sparse search tree growth and recover update-blocking bounds for v0.11.1`
+
 ### 2026-11-14
 
 - `Prioritize response latency and decouple model-specific execution for v0.11.0`
