@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-19
 
+- `Verify legacy JSON exports without inquiry requirement rows`
 - `Add verified executable source and accountable local file inquiry`
 - `Track required inquiry before acquisition and verify its evidence type`
 - `Release THOMAS v0.12.0 with proactive chat and durable background review`
