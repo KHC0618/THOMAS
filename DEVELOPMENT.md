@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-19
 
+- `Drain background model work before preparing updates`
 - `Wait for Core completion before asserting admitted GUI turn storage`
 - `Fix sparse search tree growth and recover update-blocking bounds for v0.11.1`
 
