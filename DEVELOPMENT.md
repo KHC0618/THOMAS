@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-19
 
+- `Track required inquiry before acquisition and verify its evidence type`
 - `Release THOMAS v0.12.0 with proactive chat and durable background review`
 - `Release THOMAS v0.11.2`
 - `Drain background model work before preparing updates`
