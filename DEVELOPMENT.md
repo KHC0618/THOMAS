@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-19
 
+- `Answer closed identity and response provenance queries from Core records`
 - `Verify legacy JSON exports without inquiry requirement rows`
 - `Add verified executable source and accountable local file inquiry`
 - `Track required inquiry before acquisition and verify its evidence type`
