@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-20
 
+- `Apply explicit future folder exclusions through the Core policy`
 - `Generate only the response plan when durable cognition cannot change`
 - `Identify Core-authored replies that used model-assisted preparation`
 - `Enforce current-turn local read denials and named exclusions in the broker`
