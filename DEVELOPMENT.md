@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-20
 
+- `Cite actual local documents and right-size factual comparison review`
 - `Enforce local read revocation before inquiry planning reaches file open`
 - `Require acquisition of each explicitly named comparison file`
 
