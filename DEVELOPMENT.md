@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-20
 
+- `Keep the OCR helper in the bounded document job and verify real worker cancellation`
 - `Exercise compact model planning through existing lifecycle fixtures`
 - `Apply explicit future folder exclusions through the Core policy`
 - `Generate only the response plan when durable cognition cannot change`
