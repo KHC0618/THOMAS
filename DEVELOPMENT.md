@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-20
 
+- `Identify Core-authored replies that used model-assisted preparation`
 - `Enforce current-turn local read denials and named exclusions in the broker`
 - `Allow a different conversation while local investigation waits for I/O`
 - `Display the first verified local file before answer generation`
