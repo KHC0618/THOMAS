@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-20
 
+- `Use read-only streams for Windows image and PDF OCR`
 - `Bind issued local file references to the discovered version`
 - `Ground quoted capability claims in the originating response execution`
 - `Resume pending archive interpretation during idle Core time`
