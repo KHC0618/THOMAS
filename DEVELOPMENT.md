@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-20
 
+- `Exercise the compact response-plan contract in the packaged smoke backend`
 - `Ground requested path aliases and reject fabricated Windows file citations`
 - `Reduce Windows source parser staging overhead without sharing document access`
 - `Keep the OCR helper in the bounded document job and verify real worker cancellation`
