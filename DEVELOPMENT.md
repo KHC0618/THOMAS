@@ -10,6 +10,10 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ## History
 
+### 2026-11-20
+
+- `Require acquisition of each explicitly named comparison file`
+
 ### 2026-11-19
 
 - `Start explicit current-source inquiry without historical interpretation`
