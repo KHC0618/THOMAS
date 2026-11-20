@@ -12,6 +12,7 @@ THOMAS의 공개 가능한 개발 이력을 시간 순서대로 기록한다.
 
 ### 2026-11-20
 
+- `Display the first verified local file before answer generation`
 - `Answer narrow capability acknowledgments from verified execution and intent`
 - `Isolate Windows document parsing in a temporary AppContainer`
 - `Answer closed self-overview questions from registered capabilities`
